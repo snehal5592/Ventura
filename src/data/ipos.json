@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "company": "GO AIR",
+    "logo": "/icon/goair.jpg",
+    "dates": "4th - 7th Oct 2022",
+    "issueSize": "₹3600 Crores",
+    "priceRange": "₹50-60",
+    "minInvestment": "₹50,000",
+    "lot": "100 Shares/5 Lots",
+    "details": {
+      "issueSize": "₹3,600 – 3,700 Cr.",
+      "priceRange": "₹100 – 200",
+      "minAmount": "₹50,000",
+      "lotSize": "150 shares/lots",
+      "listedOn": "15 Dec 22",
+      "listedPrice": "₹150",
+      "listingGain": "₹10 (10.0%)",
+      "companydeatils": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "timeline": [
+        { "label": "Bidding starts", "date": "12 Dec 2023" },
+        { "label": "Bidding ends", "date": "15 Dec 2023" },
+        { "label": "Allotment finalization", "date": "18 Dec 2023" },
+        { "label": "Refund initiation", "date": "18 Dec 2023" },
+        { "label": "Demat transfer", "date": "18 Dec 2023" },
+        { "label": "Listing date", "date": "21 Dec 2023" }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "company": "BAJAJ ENERGY",
+    "logo": "/icon/bajajenergy.jpg",
+    "dates": "4th - 7th Oct 2022",
+    "issueSize": "₹3600 Crores",
+    "priceRange": "₹50-60",
+    "minInvestment": "₹50,000",
+    "lot": "100 Shares/5 Lots",
+    "details": {
+      "issueSize": "₹3,600 – 3,700 Cr.",
+      "priceRange": "₹100 – 200",
+      "minAmount": "₹50,000",
+      "lotSize": "150 shares/lots",
+      "listedOn": "15 Dec 22",
+      "listedPrice": "₹150",
+      "listingGain": "₹10 (10.0%)",
+      "companydeatils": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "timeline": [
+        { "label": "Bidding starts", "date": "12 Dec 2023" },
+        { "label": "Bidding ends", "date": "15 Dec 2023" },
+        { "label": "Allotment finalization", "date": "18 Dec 2023" },
+        { "label": "Refund initiation", "date": "18 Dec 2023" },
+        { "label": "Demat transfer", "date": "18 Dec 2023" },
+        { "label": "Listing date", "date": "21 Dec 2023" }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "company": "OYO",
+    "logo": "/icon/oyo.png",
+    "dates": "To be announced",
+    "issueSize": "₹3600 Crores",
+    "priceRange": "₹50-60",
+    "minInvestment": "₹50,000",
+    "lot": "100 Shares/5 Lots",
+    "details": {
+      "issueSize": "₹3,600 – 3,700 Cr.",
+      "priceRange": "₹100 – 200",
+      "minAmount": "₹50,000",
+      "lotSize": "150 shares/lots",
+      "listedOn": "15 Dec 22",
+      "listedPrice": "₹150",
+      "listingGain": "₹10 (10.0%)",
+      "companydeatils": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "timeline": [
+        { "label": "Bidding starts", "date": "12 Dec 2023" },
+        { "label": "Bidding ends", "date": "15 Dec 2023" },
+        { "label": "Allotment finalization", "date": "18 Dec 2023" },
+        { "label": "Refund initiation", "date": "18 Dec 2023" },
+        { "label": "Demat transfer", "date": "18 Dec 2023" },
+        { "label": "Listing date", "date": "21 Dec 2023" }
+      ]
+    }
+  }
+]
